@@ -1,0 +1,1 @@
+SELECT TOP 1 id_familia FROM [Almacen].familias ORDER BY id_familia DESC

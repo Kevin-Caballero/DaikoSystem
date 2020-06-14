@@ -1,0 +1,2 @@
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY 'FK_Catalogo_Almacenes'. El conflicto ha aparecido en la base de datos 'daiko_system', tabla 'Almacen.Almacenes', column 'id_almacen'.
+Se terminó la instrucción. Desde: InsertarProducto()

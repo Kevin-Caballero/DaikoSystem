@@ -1,0 +1,1 @@
+SELECT * FROM [ALMACEN].CATALOGO WHERE id_producto = 52

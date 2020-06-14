@@ -1,0 +1,1 @@
+SELECT TOP 1 id_marca FROM [Almacen].marcas ORDER BY id_marca DESC

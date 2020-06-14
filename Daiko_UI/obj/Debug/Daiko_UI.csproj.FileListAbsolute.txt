@@ -1,0 +1,158 @@
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.exe.config
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_BLL.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_BLL.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_UI.csprojAssemblyReference.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.Form1.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.Properties.Resources.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_UI.csproj.GenerateResource.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_UI.csproj.CopyComplete
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.exe.config
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_UC.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_UC.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csprojAssemblyReference.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Form1.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Properties.Resources.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csproj.GenerateResource.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csproj.CopyComplete
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_BLL.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_BLL.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.dll.config
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Controles.DataGridViewPaginado.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormEmpresa.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormAlmacenes.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormFamilias.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormMarcas.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormProductos.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.exe.config
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_BLL.dll
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_UC.dll
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.dll
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_BLL.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_UC.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\bin\Debug\Daiko_DAL.dll.config
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csprojAssemblyReference.cache
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Controles.DataGridViewPaginado.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Form1.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormEmpresa.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormAlmacenes.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormFamilias.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormMarcas.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.FormProductos.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.Properties.Resources.resources
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csproj.GenerateResource.cache
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csproj.CopyComplete
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Nueva carpeta\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\ClassDiagram1.cd
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\netstandard.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.AppContext.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Collections.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ComponentModel.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Console.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Data.Common.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Globalization.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.Compression.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Linq.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Http.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Ping.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Requests.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Security.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ObjectModel.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Reflection.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Claims.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.Principal.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.ValueTuple.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_DESKTOP.exe.config
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UI\obj\Debug\Daiko_UI.csproj.CoreCompileInputs.cache

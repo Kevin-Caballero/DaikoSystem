@@ -1,0 +1,1 @@
+SELECT * FROM [ALMACEN].ALMACENES WHERE id_almacen = 3

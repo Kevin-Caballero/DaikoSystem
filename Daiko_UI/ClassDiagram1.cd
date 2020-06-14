@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Daiko_DESKTOP.Form1">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AVGDKIcFQiCAOrVMSACLARBeKoBfZNJqEp9KIZE4eJw=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.FormAlmacenes">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>cAAAAYAAICIQAJgKBCCAAAICAixAQABgAOAAEAAAgoA=</HashCode>
+      <FileName>FormAlmacenes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.FormEmpresa">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ICAACIhAQSAEgJQpJASDDwESRqTIQlogIIKQIAAyiMA=</HashCode>
+      <FileName>FormEmpresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.FormFamilias">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAJgKBACBACCCAggAQAAAQMAAAAAAAIA=</HashCode>
+      <FileName>FormFamilias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.FormMarcas">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAASAAAJgKBACAAAACAggAQAIAAIAAAAUAAIA=</HashCode>
+      <FileName>FormMarcas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.FormProductos">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/yAAEIJAACAQCJwKBBCACxIKAglgwCoAAuCAAQACwPA=</HashCode>
+      <FileName>FormProductos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.Properties.Resources">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_DESKTOP.Properties.Settings">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Daiko_BLL.Daiko_BLL">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Daiko_UC.Models.Almacen">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Daiko_UC.Models.Empresa">
+    <Position X="24.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Daiko_UC.Models.Familia">
+    <Position X="22" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Daiko_UC.Models.Marca">
+    <Position X="22.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Daiko_UC.Models.Producto">
+    <Position X="20" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

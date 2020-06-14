@@ -1,0 +1,1 @@
+Hay más columnas en la instrucción INSERT que valores en la cláusula VALUES. El número de valores de VALUES debe coincidir con el de columnas de INSERT. Desde: InsertarProducto()

@@ -1,0 +1,10 @@
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\bin\Debug\netstandard2.0\Daiko_UC.deps.json
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\bin\Debug\netstandard2.0\Daiko_UC.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\bin\Debug\netstandard2.0\Daiko_UC.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.AssemblyInfoInputs.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.AssemblyInfo.cs
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.csprojAssemblyReference.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\bin\Debug\netstandard2.0\ClassDiagram1.cd
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_UC\obj\Debug\netstandard2.0\Daiko_UC.csproj.CoreCompileInputs.cache

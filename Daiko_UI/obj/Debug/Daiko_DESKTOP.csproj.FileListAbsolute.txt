@@ -1,0 +1,11 @@
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.exe.config
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.csprojAssemblyReference.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.Form1.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.Properties.Resources.resources
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.csproj.GenerateResource.cache
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.exe
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.pdb
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Cabal\OneDrive\Escritorio\Daiko\Daiko_DESKTOP\obj\Debug\Daiko_DESKTOP.csproj.CopyComplete
